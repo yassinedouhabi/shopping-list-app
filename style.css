@@ -50,10 +50,6 @@ header h1 {
   margin-bottom: 10px;
 }
 
-.filter {
-  display: none;
-}
-
 .form-input-filter {
   margin-top: 20px;
   width: 100%;
@@ -90,7 +86,6 @@ header h1 {
 }
 
 .btn-clear {
-  display: none;
   margin-top: 20px;
   width: 100%;
   font-size: 16px;
